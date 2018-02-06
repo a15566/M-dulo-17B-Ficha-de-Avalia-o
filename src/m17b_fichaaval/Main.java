@@ -1,5 +1,8 @@
 package m17b_fichaaval;
-
+/** 
+ * @author Ricardo Cardoso || Samuel Egger
+ * @version 1.3
+ */
 public class Main {
 
     public static void main(String[] args) {
@@ -10,5 +13,6 @@ public class Main {
         System.out.println(p2);
         
         System.out.println(p2.distancia(p1));
+                
     }
 }
